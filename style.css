@@ -1,0 +1,65 @@
+.navbar-wagon-brand img{
+    height: 50px;
+}
+.banner {
+    background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%),
+        url(https://static.pexels.com/photos/311626/pexels-photo-311626.jpeg);
+    background-size: cover;
+    background-position: center center;
+    opacity: .9;
+    text-align: center;
+    padding: 150px 100px;
+    font-family: avenir, monospace;
+}
+.recherche .champ {
+    width: 400px;
+    height: 30px;
+    display: inline-block;
+}
+.bouton {
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    display: inline-block;
+}
+
+.banner h1{
+    color: white;
+}
+.banner h4{
+    color: white;
+}
+.converse{
+    width: 500px;
+    height: 200px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+.gazelle{
+    width: 500px;
+    height: 200px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+.puma{
+    width: 500px;
+    height: 200px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+.nike{
+    width: 500px;
+    height: 200px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+.footer {
+    background: #F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    padding: 0px 50px;
+    color: rgba(200,200,200,200);
+}
